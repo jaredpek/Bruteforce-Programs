@@ -1,8 +1,12 @@
 Project Description:
-- Bruteforce programs for Login Pages or Directories coded in Python and to be run on Kali Linux VM only.
+- Bruteforce programs for Login Pages or Directories coded in Python.
+- To be run on Kali Linux VM only.
 
 Installation:
-- Inside terminal, run the command: git clone https://github.com/jaredpek/Bruteforce-Programs
+1. Download Project:
+	- git clone https://github.com/jaredpek/Bruteforce-Programs
+2. Install Requirements:
+    - pip install -r requirements.txt
 
 For Login Bruteforcer:
 1. Setup:
