@@ -5,8 +5,6 @@ Project Description:
 Installation:
 1. Download Project:
 	- git clone https://github.com/jaredpek/Bruteforce-Programs
-2. Install Requirements:
-    - pip install -r requirements.txt
 
 For Login Bruteforcer:
 1. Setup:
